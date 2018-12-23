@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/Bubble_sort
 # Insertion Sort
 Insertion Sort Video:
 
-
+https://youtu.be/eI4Boylv_dk
 
 wiki page:
 
