@@ -11,3 +11,12 @@ https://www.youtube.com/watch?v=AR-9mCJTVck
 wiki page:
 
 https://en.wikipedia.org/wiki/Bubble_sort
+
+# Insertion Sort
+Insertion Sort Video:
+
+
+
+wiki page:
+
+https://en.wikipedia.org/wiki/Insertion_sort
